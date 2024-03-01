@@ -10,7 +10,7 @@
             "email": "narhis_8@mail.ru"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {
         "php": "^7.2 || ^8.0",
         "fr05t1k/esia": "^2.0",
